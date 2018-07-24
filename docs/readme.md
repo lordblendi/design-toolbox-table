@@ -1,10 +1,10 @@
 # Design Toolbox Table
 
-Selector component of the TenForce design toolbox.
+Table component of the TenForce design toolbox.
 
 ## CSS
 
-This component is using a main CSS file.
+This component is using [one](https://github.com/tenforce/design-toolbox-table/blob/master/docs/sass/toolbox-table.scss) CSS file.
 
 ## HTML structure
 
@@ -21,7 +21,7 @@ The Design documentation was built in Jekyll using SASS and Liquid.
   - [raw](https://github.com/tenforce/design-toolbox-table/blob/master/docs/sass/toolbox-table.scss)
 
 ### Jekyll
-Add [this file](https://github.com/tenforce/design-toolbox-table/tree/master/docs/import/include-table.html) to the another Jekyll project to include files from this project.
+Add [the content of this file](https://github.com/tenforce/design-toolbox-table/tree/master/docs/import/include-table.html) to the another Jekyll project to include files from this project.
 
 ## Dependencies
 - [Tailwind v0.6.4](https://tailwindcss.com)
